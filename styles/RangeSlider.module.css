@@ -1,0 +1,17 @@
+.slider {
+  margin: auto;
+  width: 80%;
+  display: block;
+}
+.Input {
+  text-align: center;
+  padding: 1px; /* Add padding to create space */
+  border-radius: 4px; /* Maintain border radius */
+  border: 1px solid #a3a3a6;
+  border-bottom: none;
+  width: 100px;
+  outline: none;
+}
+.underScore {
+  font-weight: 900;
+}

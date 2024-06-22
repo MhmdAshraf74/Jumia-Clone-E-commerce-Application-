@@ -1,0 +1,121 @@
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .content {
+    text-align: center;
+    background: #fff;
+    width: 100%;
+    border-radius: 5px;    
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px 5px 0 0;
+  }
+
+  .products {
+    text-align: left;
+    padding: 2px 5px;
+    width: 100%;
+  }
+
+ .p1 {
+    font-size: 14px;
+    width: 130px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+ } 
+
+ .p2 {
+    font-size: 16px;
+ }
+
+ .cover {
+    background-color: #fff;
+ }
+
+ .p3 {
+    text-decoration: line-through;
+    font-size: 14px;
+    color: #75757a;
+ }
+
+ .progress {
+   height: 7px;
+ }
+
+ .content .p1 {
+    line-height: 1;
+   
+ }
+
+ .content .p2 {
+    line-height: 1.2;
+ }
+
+ .content .p3 {
+    line-height: 0.9;
+ }
+
+ .cardtext {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 5px 0;
+}
+
+.cardtext h3 {
+   font-size: 20px;
+   font-weight: bold;
+}
+
+.flash {
+   font-size: 25px;
+   color: #f90;
+}
+
+.flashtext {
+   margin-bottom: 0;
+   margin-left: 5px;
+}
+
+.see-all {
+   font-size: .9rem;
+   font-weight: 100;
+}
+
+@media (max-width: 600px) {
+   .content .p1 {
+      font-size: 13px;
+      color: #75757a;
+     
+   }
+
+   .card-text h3 {
+      font-size: 12px;
+      font-weight: bold;
+   }
+   
+   .flash {
+      font-size: 18px;
+      color: #f90;
+   }
+   
+   .flash-text {
+      margin-bottom: 0;
+      margin-left: 5px;
+      font-size: 14px;
+      padding-bottom: 0;
+   }
+}
+
+ 

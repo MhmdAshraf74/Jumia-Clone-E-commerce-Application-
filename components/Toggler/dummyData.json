@@ -1,0 +1,372 @@
+[
+  {
+    "id": 0,
+    "title": "What payment methods are accepted on Jumia?",
+    "description": "<p>Jumia offers multiple payment options, including:</p><strong>1. Pay on Delivery:</strong><p> You have the option to pay with cash, a bank card, or a smart wallet when the courier delivers your order.</p><strong>2. JumiaPay:</strong><p> You have the option to pay with cash, a bank card, or a smart wallet when the courier delivers your order.</p>"
+  },
+  {
+    "id": 0,
+    "title": "How secure is my payment information on Jumia?",
+    "description": "Jumia prioritizes customer payment security with encryption, and secure servers. Regular monitoring and auditing are also performed to maintain a secure environment for transactions. "
+  },
+  {
+    "id": 0,
+    "title": "What do I do if my payment is declined?",
+    "description": "If your payment is declined, you can check the following to resolve the issue:<ul style='list-style:inside;margin-left: 40px;'><li>Check the spelling and billing information you entered for accuracy.</li><li>Ensure that your credit card has sufficient funds or that your bank account has enough balance.</li><li>Check if there are any restrictions on your card, such as a daily spending limit.</li><li>Make sure your card has not expired.</li></ul></br>If you've checked the above and your payment is still declined, you can contact Jumia customer service for assistance. They can be reached through Live Chat or by calling us.</br><strong>Note:</strong> It is recommended to keep the details of the error message that appeared during the declined transaction to provide it to Jumia customer service for a faster resolution."
+  },
+  {
+    "id": 0,
+    "title": "What is JumiaPay on Delivery?",
+    "description": "JumiaPay on delivery is an easy, quick method of payment which allows you to pay by card or smart wallet at the time of delivery, instead of cash."
+  },
+  {
+    "id": 0,
+    "title": "How does JumiaPay on Delivery work?",
+    "description": "You simply have to follow the steps below:<ul style='list-style:inside;margin-left: 40px;'><li>Ask our delivery agent to use JumiaPay to pay for your package.</li><li>The agent will share a QR code with you. Scan it to be redirected to the JumiaPay checkout platform. Alternatively, the agent may send you the link to the checkout page via SMS.</li>Once on the JumiaPay platform, you may either login with your Jumia account, or opt to pay as a guest. If you choose to login, you will be prompted to receive a OTP via SMS/email before proceeding to the checkout.<li>Please follow the payment steps as indicated.</li><li>Once the payment is completed, the delivery agent will receive a confirmation message, and will hand you your package.</li></ul>"
+  },
+  {
+    "id": 0,
+    "title": "I encountered an issue when trying to pay using JumiaPay on Delivery. What should I do?",
+    "description": "<p>On rare occasions, your payment may not be successful. Please ensure you input the correct payment information (card number, expiry date, CVV), and that you have sufficient funds in your card/account. Also, network and connectivity issues with your issuing bank may lead to a paymyouent failure. Your bank may also send you a verification code (OTP) via SMS, so please ensure you have access to your phone at the time of completing the transaction. A transaction on the payment platform is valid for a limited period of time, so please ensure you complete it before it times out. Should you require additional assistance, please <a style='font-weight: bold;color: orange;'>CONTACT US.</a></p>"
+  },
+  {
+    "id": 0,
+    "title": "I ordered multiple packages, can I pay for them all at once using JumiaPay on Delivery?",
+    "description": "Yes, you may pay for all packages being delivered by the same agent in one instance, using JumiaPay on Delivery."
+  },
+  {
+    "id": 0,
+    "title": "I paid for my order using my card at the time of delivery through (JumiaPay on delivery), and wish to return my item, how will I be refunded?",
+    "description": "You will be refunded through the same payment method, which means that orders paid via card will be refunded back to your bank card."
+  },
+  {
+    "id": 0,
+    "title": "What if someone else is receiving the package on my behalf, Can they pay using Jumia pay on delivery?",
+    "description": "Yes, the person receiving the package may scan the QR code shown by the delivery. Alternatively, the agent can send the link to the JumiaPay checkout platform to the person who will pay for the order."
+  },
+  {
+    "id": 0,
+    "title": "Cash on delivery not available. Why?",
+    "description": "<ul style='list-style:inside;margin-left: 40px;'><li>Your cart has a product shipped from overseas.</li>Your cart is below 30 pounds which does not allow you to enjoy payment on delivery.<li>The total value of the cart is more than 31 thousand pounds.</li><li>Your delivery option (some far regions, some specific pick-up stations) is not eligible for pay on delivery.</li><li>Payment on delivery is not allowed on your account, based on your past orders experience.</li></ul>"
+  },
+  {
+    "id": 0,
+    "title": "How do I know if my payment has been processed successfully?",
+    "description": "You can check the status of your payment by following these steps:</br><strong>Step 1:</strong>Go to the \"Orders\" section in your account dashboard.</br><strong>Step 2:</strong>Find the order in question and check its status. If the payment has been processed successfully, the order status should be \"Confirmed.\""
+  },
+  {
+    "id": 0,
+    "title": "How long does it take for my payment to be processed?",
+    "description": "Most payments on Jumia are processed immediately when completed. However, specific processing times may vary depending on the payment method.To ensure that your payment is processed quickly, we recommend that you double-check all the information before completing the checkout. If you are experiencing an issue with your payment, please contact Jumia's customer service team for assistance."
+  },
+  {
+    "id": 0,
+    "title": "Can I cancel my order and get a refund after payment has been made?",
+    "description": "If the order has not been shipped, you can cancel the order and get a refund. The refund processing time varies depending on the payment method. You can check the refund timelines from <a style='font-weight: bold;color: orange;'>HERE .</a>"
+  },
+  {
+    "id": 0,
+    "title": "I tried to pay for my order using my card/mobile money. The funds were debited, but it says my order did not go through. What happened, and how can I get my money back?",
+    "description": "On rare occasions, technical issues may occur preventing us from confirming the transaction although your account may have been debited. Not to worry, you will receive a refund should this issue occur. Please <a style='font-weight: bold;color: orange;'>CONTACT US</a> to request a refund back to your account."
+  },
+  {
+    "id": 1,
+    "title": "What are Jumia vouchers?",
+    "description": "To use your Jumia voucher, follow these simple steps:</br><strong>Step 1:</strong>Log into your Jumia account.</br><strong>Step 2:</strong> Go to the 'Account' section in the top right menu.</br><strong>Step 3:</strong> Select 'Vouchers' to view all vouchers linked to your account. You may also have received a voucher code via email or social media.</br><strong>Step 4:</strong> Copy the voucher code you want to use.</br><strong>Step 5:</strong> During checkout, paste the code in the 'Enter Code Here' section and click 'Apply'.</br><strong>Step 6:</strong>Your order total will be updated with the voucher's discount value, and you can proceed with your order by clicking 'Confirm Your Order'."
+  },
+  {
+    "id": 1,
+    "title": "Can I use a voucher for all products on Jumia?",
+    "description": "Some vouchers may have restrictions, such as being only valid for specific products or categories. The terms and conditions of the voucher will indicate any such restrictions."
+  },
+  {
+    "id": 1,
+    "title": "How do I know if my voucher is still valid?",
+    "description": "You can check the voucher's status in your Jumia account, under the 'Vouchers' section. If the voucher has expired or has already been redeemed, it will not be listed there. In addition, reactivation of the voucher code may not be possible."
+  },
+  {
+    "id": 1,
+    "title": "Can I use multiple vouchers at once?",
+    "description": "Unfortunately, you cannot use multiple vouchers at once. You can only use one voucher per order."
+  },
+  {
+    "id": 1,
+    "title": "Why is my voucher code not working?",
+    "description": "If you're facing an error while trying to apply a voucher code on Jumia, here are some common reasons why voucher codes might not work and how to resolve them:</br><ul style='list-style:inside;margin-left: 40px;'><li>Incorrect code: Please double-check that the code you entered is correct and free of spaces or special characters.</li><li>Account specific: Voucher codes are linked to your Jumia account and cannot be used by another account. If the code was received from someone else, it won't work for you.</li><li>Already redeemed: Each voucher code can only be used once. If you have already redeemed the code, it will no longer be valid.</li><li>Expired: Voucher codes have a limited validity period. If the code has expired, it won't work.</li><li>Maximum redemptions reached: Some voucher codes have a maximum number of redemptions. If the maximum has been reached, the code won't work.</li></ul>"
+  },
+  {
+    "id": 1,
+    "title": "Do I need to meet a minimum order value to use my voucher code?",
+    "description": "The conditions for using voucher codes, including any minimum order values, may vary. For more information on the specific conditions for your voucher, please visit the 'Vouchers' section in your account."
+  },
+  {
+    "id": 2,
+    "title": "What types of products does Jumia offer?",
+    "description": "Jumia is Egypt's leading online store, providing customers with an extensive selection of products in multiple categories. From electronics, Fashion, apparel and home décor to health and beauty products. Whether you're looking for a new laptop, phone, or fashion accessories, Jumia has something for everyone."
+  },
+  {
+    "id": 2,
+    "title": "Does my product have a warranty?",
+    "description": "The warranty information for a product can be found on its listing page on Jumia. For more information on how to claim a warranty, click <a style='font-weight: bold;color: orange;'>HERE.</a>."
+  },
+  {
+    "id": 2,
+    "title": "How do I search for a specific product?",
+    "description": "You can search for a specific product on Jumia by using the search bar located at the top of the website. Enter the name of the product you are looking for into the search bar, and then click the 'search' button. You will be presented with a list of results which match your search criteria. You can then browse through the list to find the exact product you are looking for. Additionally, you can narrow down your search results by selecting filters such as price range, brand and more."
+  },
+  {
+    "id": 2,
+    "title": "How can I view product details and specifications?",
+    "description": "Product details and specifications for items sold on Jumia can be easily accessed by clicking on the product's listing. Once you have selected the desired item, scroll down to the bottom of the page where you will find a detailed description of the product's features and specifications. The product's details also include a list of images for the product, ratings and reviews from other customers, and a list of related items."
+  },
+  {
+    "id": 2,
+    "title": "I want to request a tax invoice, how can I do that?",
+    "description": "You can request a tax invoice by filling out the form <a style='font-weight: bold;color: orange;'>HERE.</a>. The electronic invoice will be sent to you via email within 3 business days. For more information about the warranty, please click <a style='font-weight: bold;color: orange;'>HERE</a>."
+  },
+  {
+    "id": 2,
+    "title": "How do I know if a product is in stock?",
+    "description": "You can simply visit the product page and look for the 'In Stock' label. If the product is currently in stock, you will see the 'In Stock' label. If the product is not in stock, the label will not be present. If you need to check the availability of a specific item, you can also use the search bar on the Jumia website. Enter the product name or SKU number to see if it is in stock. If the product is available, you will also see the 'In Stock' label on the product page."
+  },
+  {
+    "id": 2,
+    "title": "How can I provide feedback or write a review for a product?",
+    "description": "Just follow these steps:</br><strong>Step 1:</strong> Go to your 'account' in the top right corner of the main page.</br><strong>Step 2:</strong> Choose Pending Reviews.</br><strong>Step 3:</strong> Find the item you purchased and select 'Write a Review'.</br><strong>Step 4:</strong> Provide your feedback regarding the product and submit it</br>Your feedback will be visible to other customers and can help them make informed decisions when purchasing from Jumia."
+  },
+  {
+    "id": 3,
+    "title": "How can I track my delivery?",
+    "description": "Just follow these steps:</br><strong>Step 1:</strong> Log in to your account.</br><strong>Step 2:</strong> Click on the 'My Account' button and select 'Orders' from the dropdown menu.</br><strong>Step 3:</strong> Locate the order for which you want to track the delivery and click on the 'View Details' button.</br><strong>Step 4:</strong> On the order details page, look for the delivery status under the 'Order Information' section.</br>If you have any concerns about the delivery status, you can contact Jumia's customer service team by clicking on the 'Help' button at the top right of the page and selecting 'Live Chat' from the dropdown menu."
+  },
+  {
+    "id": 3,
+    "title": "What if I am not available to receive my delivery?",
+    "description": "If you are not available to receive your delivery, you have the following options: </br><div style='list-style:inside;margin-left: 40px;'>• You can arrange for someone else to receive it on your behalf by providing their name and contact information to the delivery agent. It is important to ensure that this person is available at the same address that was provided when placing your order. </br>• Contact the delivery agent to reschedule the delivery for a moreconvenient time.</div></br><strong>Note:</strong> It is not possible to change the delivery address once an order is placed. Jumia will make a total of 2 attempts to deliver the package before canceling your order. You will be notified before they make the second attempt, so it's important to remain available to avoid order cancellation."
+  },
+  {
+    "id": 3,
+    "title": "Can I change my delivery address after placing an order?",
+    "description": "It is important to carefully review and confirm the accuracy of your delivery information, such as your address and phone number, before placing an order on Jumia. Once the order has been placed, it is not possible to make changes to the delivery information. To make sure that your order is delivered properly, please double-check your delivery information on the checkout page."
+  },
+  {
+    "id": 3,
+    "title": "What is the delivery fee?",
+    "description": "The delivery fee is the cost incurred by Jumia and its logistics partners for delivering your order to the selected address. The delivery fee amount can vary based on factors such as your geographic location, the delivery method chosen, the shipment method, and the size or category of the product ordered. You can review the delivery fee before placing your order on the product page and during the checkout process."
+  },
+  {
+    "id": 3,
+    "title": "What do I do if my delivery has not arrived within the estimated time frame?",
+    "description": "• Check the order information page in your Jumia account for any updates on the delivery status.</br>• Monitor communication sent through push notifications, emails, and the app inbox for any updates on the delivery status of your order. </br>• Contact the delivery agent by using the contact information provided in the email sent to you when your package is 'out for delivery'. </br>• If you are unable to reach the delivery agent, or if the delivery status has not been updated, you can reach out to Jumia's customer service team for assistance. You can reach them by clicking on the 'Help' button at the top right of the page and selecting 'Live Chat' from the dropdown menu.</br><strong>Note:</strong> it is important to reach out to us if you have any concerns or questions regarding the delivery of your order."
+  },
+  {
+    "id": 3,
+    "title": "Who do I contact if there is a problem with my delivery?",
+    "description": "If you need to report an issue with your Jumia order or contact customer support, you can do so through several methods:</br>• Live Chat support on the website and app.</br>• Calling the phone support line at 19586 (available 7 Days a week, 9am to 8pm)."
+  },
+  {
+    "id": 3,
+    "title": "What happens if my delivery is damaged upon arrival?",
+    "description": "In case your delivery arrives damaged, reach out to our customer service team through Live Chat or Calling us with details about the damage. Our customer service representatives will assist you in resolving the issue. Remember to promptly inspect your delivery upon arrival and report any damages."
+  },
+  {
+    "id": 3,
+    "title": "Can I collect my order at a pick up station?",
+    "description": "In addition to home delivery, you can also choose to pick up your order at one of many Jumia Pickup Stations. To locate the most convenient location for you, please click <a style='font-weight: bold;color: orange;'>HERE</a> ."
+  },
+  {
+    "id": 3,
+    "title": "How long does delivery usually take?",
+    "description": "Delivery timelines vary by area. Full details can be found <a style='font-weight: bold;color: orange;'>HERE</a> ."
+  },
+  {
+    "id": 4,
+    "title": "How to place an order on Jumia?",
+    "description": "To place an order on Jumia, follow these simple steps:<br/><strong>Step 1:</strong> Browse and select the desired product(s).<br/><strong>Step 2:</strong> Click on 'Add to Cart'.<br/><strong>Step 3:</strong> Proceed to checkout and enter your delivery information.<br/><strong>Step 4:</strong> Select a payment method and complete the payment process (Prepaid).<br/><strong>Step 5:</strong> Confirm your order and wait for delivery."
+  },
+  {
+    "id": 4,
+    "title": "What payment methods are accepted?",
+    "description": "Jumia offers multiple payment options, including:<br/><strong>1. Pay on Delivery:</strong> You can pay in cash when the courier delivers your order.<br/><strong>2. JumiaPay:</strong> Secure payment using Bank cards, Installment, Smart wallets, or Fawry.<br/><strong>3. Vouchers:</strong> Pay using a voucher code."
+  },
+  {
+    "id": 4,
+    "title": "How to track my order?",
+    "description": "To track your order on Jumia, you can follow these steps:<br/><strong>Step 1:</strong> Log in to your Jumia account.<br/><strong>Step 2:</strong> Go to the 'My Orders' section.<br/><strong>Step 3:</strong> Find your order and click on 'See Details', then click on “Status History”.<br/><strong>Step 4:</strong> You will see the current status of your order, including the estimated delivery time.<br/><br/>We are also sending order updates via email. If you have any questions about your order status, you can contact Jumia customer support for assistance."
+  },
+  {
+    "id": 4,
+    "title": "How to cancel items or orders?",
+    "description": "<strong>Step 1:</strong> Log in to your Jumia account.<br/><strong>Step 2:</strong> Go to your 'Orders' page.<br/><strong>Step 3:</strong> Find the order or item you want to cancel.<br/><strong>Step 4:</strong> Click on 'See Details' for that order.<br/><strong>Step 5:</strong> Select the item you want to cancel.<br/><strong>Step 6:</strong> Click the 'Cancel Item' button and follow the prompts to complete the cancellation process.<br/><br/><strong>Note:</strong> Please be aware that some items/orders may not be eligible for cancellation, or there may be fees associated with canceling an item/order."
+  },
+  {
+    "id": 4,
+    "title": "What is the return and refund policy?",
+    "description": "<strong>Return:</strong> You can request a return within the first 14 days from the delivery date if you change your mind about a product and if it has not been opened except for the following products <a style='font-weight: bold;color: orange;' href='#'>HERE</a>.<br/><br/><strong>Note:</strong> In case of receiving a product with an apparent defect/damage or a product with a wrong (color / size / model) or any shortage of product belongings or accessories or damage in the outer package of the product, you must inform us within a maximum 48 hours from the delivery date.</br><strong>Refunds:</strong> If your return request is approved, you will receive a refund in the refund method you chose while issuing your return. You can find all Refund timelines <a style='font-weight: bold;color: orange;' href='#'>HERE</a>."
+  },
+  {
+    "id": 4,
+    "title": "How to report an issue or contact customer support?",
+    "description": "If you need to report an issue with your Jumia order or contact customer support, you can do so through several methods: </br>• Live Chat support on the website and app.</br>• Calling the phone support line at 19586 (available 7 Days a week, 9am to 8pm)."
+  },
+  {
+    "id": 4,
+    "title": "How do I add my phone number and address to my account?",
+    "description": "<p>You can easily add your phone number and address to your account by following these steps:<br/><strong>Step 1:</strong> Log in to your account.</p><p><strong>Step 2:</strong> Go to 'My Account'.</p><p><strong>Step 3:</strong> In the 'My Jumia Account' section, click on the 'Add/Edit' button in the 'Address Book'.</p><p><strong>Step 4:</strong> Enter your phone number and address in the fields provided.</p><p><strong>Step 5:</strong> Click 'Save' to save your changes.<br/>Your phone number and address will now be associated with your account.</p>"
+  },
+  {
+    "id": 5,
+    "title": "Do I have to pay for delivery fees when I return a product?",
+    "description": "You do not need to pay for any delivery fees when returning a product to Jumia."
+  },
+  {
+    "id": 5,
+    "title": "I submitted my return request, but have changed my mind and no longer wish to return the item. What should I do?",
+    "description": "In order to cancel your return request, please contact us via Live chat or call us on 19586. If you have already been contacted for pickup, you may request the delivery associate to cancel it for you on your behalf."
+  },
+  {
+    "id": 5,
+    "title": "What is Jumia's return policy?",
+    "description": "<strong>Return:</strong> You can request a return within the first 14 days from the delivery date if you change your mind about a product and if it has not been opened except for the following products <a style='font-weight: bold;color: orange;'>HERE</a> .</br><strong>Note:</strong> In case of receiving a product with an apparent defect/damage or a product with a wrong (color / size /model) or any shortage of product belongings or accessories or damage in the outer package of the product, you must inform us within a maximum 48 hours from the delivery date.</br><strong>Refunds:</strong> If your return request is approved, you will receive a refund in the refund method you chose while issuing your return. You can find all Refund timelines <a style='font-weight: bold;color: orange;'>HERE</a> ."
+  },
+  {
+    "id": 5,
+    "title": "How do I initiate a return on Jumia?",
+    "description": "<strong>Step 1:</strong> Log in to your Jumia account and go to \"Orders\".<br/><strong>Step 2:</strong> Click on the order of the item(s) you want to return.<br/><strong>Step 3:</strong> Select the item(s) you want to return and provide a reason for the return. Give more details to help us understand the issue.<br/><strong>Step 4:</strong> Choose your preferred refund method.<br/><strong>Step 5:</strong> Select whether you would like to personally drop off the returned item or have Jumia pick it up.<br/><strong>Step 6:</strong> Review your information and submit your return request."
+  },
+  {
+    "id": 5,
+    "title": "What if I received a damaged, defective or wrong item?",
+    "description": "If you receive a damaged, defective or wrong item, you must inform us or initiate return within a maximum of 48 hours from the delivery date."
+  },
+  {
+    "id": 5,
+    "title": "How long does it take to process a return on Jumia?",
+    "description": "It typically takes 2-6 business days to process the refund from Jumia."
+  },
+  {
+    "id": 5,
+    "title": "How will I receive my refund after returning an item on Jumia?",
+    "description": "You will get the refund in the method you chose while creating the return."
+  },
+  {
+    "id": 5,
+    "title": "How long does it take to receive the refund?",
+    "description": "Jumia offers you the following refund methods as shown in the table below:</br><table style=\"p-5 border-collapse: collapse; background-color: rgb(255, 255, 255); width: 100%; border: 2px solid rgb(230, 126, 35);\"><tbody><tr><td style=\" border-width: 2px;\"><strong>Payment methods</strong></td><td style=\" border-width: 2px;\"><strong>Refund method</strong></td><td style=\" border-width: 2px;\"><strong>Refund timeline</strong></td></tr><tr><td style=\" border-width: 0 2px 2px 2px;\">Cash</td><td style=\" border-width: 0 2px 2px 2px; text-align: left;\">Refund voucher</td><td style=\" border-width: 0 2px 2px 2px;\">Same day</td></tr><tr><td style=\" border-width: 0 2px 2px 2px;\">Cash</td><td style=\" border-width: 0 2px 2px 2px; text-align: left;\">Postal</td><td style=\" border-width: 0 2px 2px 2px;\">3 Working days</td></tr><tr><td style=\" border-width: 0 2px 2px 2px;\">Cash</td><td style=\" border-width: 0 2px 2px 2px; text-align: left;\">Bank transfer</td><td style=\" border-width: 0 2px 2px 2px;\">6 Working days</td></tr><tr><td style=\" border-width: 0 2px 2px 2px;\">Bank Card</td><td style=\" border-width: 0 2px 2px 2px; text-align: left;\">Bank Card</td><td style=\" border-width: 0 2px 2px 2px;\">7 to 14 Working days</td></tr><tr><td style=\" border-width: 0 2px 2px 2px;\">Installment</td><td style=\" border-width: 0 2px 2px 2px; text-align: left;\">Credit card</td><td style=\" border-width: 0 2px 2px 2px;\">7 to 14 Working days</td></tr><tr><td style=\" border-width: 0 2px 2px 2px;\">Smart wallet</td><td style=\" border-width: 0 2px 2px 2px; text-align: left;\">Smart wallet</td><td style=\" border-width: 0 2px 2px 2px;\">7 to 14 Working days</td></tr><tr><td style=\" border-width: 0 2px 2px 2px;\">Fawry</td><td style=\" border-width: 0 2px 2px 2px; text-align: left;\">Refund Voucher</td><td style=\" border-width: 0 2px 2px 2px;\">Same day</td></tr></tbody></table></br>Note that refund methods availability is based on the payment method used to pay for the order being returned, in case of requesting a refund voucher we will not be able to change the refund method later. See information about our refund timelines  <a style='font-weight: bold;color: orange;'>HERE</a> ."
+  },
+  {
+    "id": 5,
+    "title": "I received an error message that my item cannot be returned, why is that?",
+    "description": "If you receive an error message that your item cannot be returned, it's likely due to Jumia's policy for customer safety and protection. Certain items, such as swimwear, underwear, lingerie, earrings, cosmetics, fragrances, groceries, drugs, food supplements, software, tickets, and adult products cannot be returned, except in the case of receiving a wrong, defective, counterfeit, damaged, incomplete, or expired item and flagged within 48 hours from delivery date."
+  },
+  {
+    "id": 5,
+    "title": "Does my product have a warranty?",
+    "description": "The warranty information for a product can be found on its listing page on Jumia. For more information on how to claim a warranty, click <a style='font-weight: bold;color: orange;'>HERE</a> ."
+  },
+  {
+    "id": 5,
+    "title": "Why was my return request declined and the item sent back to me?",
+    "description": "Your return request was declined by the Jumia Quality Check Team because the eligibility conditions for return were not met, or the return claim could not be confirmed after thorough testing. This may have occurred if you returned the item without its original packaging, or if an unsealed product (such as a phone or laptop) was returned but found to be functional.the item is not eligible for return. If your return request is rejected, we will make two redelivery attempts within 7 business days. If both attempts are unsuccessful, the product will be returned to Jumia and if you want to receive it, you will have to come and collect it from Jumia warehouse."
+  },
+  {
+    "id": 5,
+    "title": "Is it possible to exchange an item instead of requesting a return and refund?",
+    "description": "Currently, Jumia does not offer an exchange option for items. However, you can still return an item and receive a full refund."
+  },
+  {
+    "id": 5,
+    "title": "I received a refund confirmation, but the amount received is incorrect. What should I do?",
+    "description": "We apologize for the inconvenience. If you believe the amount you received is incorrect, please reach out to us for further investigation and resolution via Live Chat or call us on 19586."
+  },
+  {
+    "id": 5,
+    "title": "Will I get my delivery fees refunded when returning an item?",
+    "description": "The refund amount will include the delivery fees."
+  },
+  {
+    "id": 5,
+    "title": "How do I track my return status?",
+    "description": "You can keep track of your return status through email,<a style='font-weight: bold;color: orange;'>APP INBOX</a> , push notifications updates from Jumia. Additionally, you can also check our <a style='font-weight: bold;color: orange;'>RETURN TIMELINES</a> for further information"
+  },
+  {
+    "id": 6,
+    "title": "How do I create an account on Jumia?",
+    "description": "<p>Creating an account on Jumia is easy and only takes a few steps.</p><p><strong>Step 1:</strong> Go to the Jumia website or app.</p><p><strong>Step 2:</strong> Click on the 'My Account' option at the top right corner of the page.</p><p><strong>Step 3:</strong> Select 'Sign in' option and you will be directed to the registration page.</p><p><strong>Step 4:</strong> Here, you will be asked to enter a valid email address and a secure password.</p><p><strong>Step 5:</strong> Once you have filled out the required details, click on the 'Create Account' button at the bottom of the page.</p><p>Your Jumia account is now created and you can start shopping. If you have any other questions or need help, you can contact Jumia’s customer service team for assistance.</p>"
+  },
+  {
+    "id": 6,
+    "title": "How do I change my account information?",
+    "description": "<p>If you need to change any information on your Jumia account, you can do so by following these steps:</p><p><strong>Step 1:</strong> Log in to your Jumia account.</p><p><strong>Step 2:</strong> Go to the 'My Account' page and select 'Account management' from the menu.</p><p><strong>Step 3:</strong> Here, you can update and change your personal information, contact details, and password.</p><p><strong>Step 4:</strong> When you're satisfied with the changes, click 'Save' to confirm the changes.</p>"
+  },
+  {
+    "id": 6,
+    "title": "How do I reset my password?",
+    "description": "<p>You can reset your password by following these steps:</p><p><strong>Step 1:</strong> Go to the Jumia website and click on the 'Sign in' button.</p><p><strong>Step 2:</strong> Then, click on the 'Forgot Password'.</p><p><strong>Step 3:</strong> We will send a 4-digit verification code to your email.</p><p><strong>Step 4:</strong> Once you receive the code by email, please insert the code on the Jumia platform.</p><p><strong>Step 5:</strong> You will then be able to submit your password reset and use your new password.</p>"
+  },
+  {
+    "id": 6,
+    "title": "How do I close my Jumia account?",
+    "description": "<p>We regret to see you go, but understand if you need to close your Jumia account. As an alternative, you can place your account on hold for later use. If you still choose to close your account, here's how:</p><p><strong>Step 1:</strong> Log in to your Jumia account.</p><p><strong>Step 2:</strong> Click on the 'Account' menu option in the upper right corner.</p><p><strong>Step 3:</strong> Select 'Close Account'.</p><p><strong>Step 4:</strong> Indicate the reason for closing and click on 'Close my account'.</p><p><strong>Note:</strong> once you submit your request, your account cannot be reactivated.</p>"
+  },
+  {
+    "id": 6,
+    "title": "How do I subscribe to the Jumia newsletter?",
+    "description": "<p>To subscribe to Jumia's newsletter, go to the Jumia website. Scroll to the bottom of the page and look for the 'Subscribe to our Newsletter' section. Enter your email address in the provided field and click the 'Subscribe' button.</p>"
+  },
+  {
+    "id": 6,
+    "title": "What should I do if my phone number is already linked to another Jumia account?",
+    "description": "<p>If the phone number you are trying to use for creating an account is already associated with another account, you have two options. You can claim the phone number back. To claim it back, follow these steps:</p><p><strong>Step 1:</strong> Go to the 'Account Management' section.</p><p><strong>Step 2:</strong> Select 'Edit phone number' to change the phone number to the desired one.</p><p><strong>Step 3:</strong> Click 'Claim this number' and enter the OTP sent to the new phone number.</p><p><strong>Step 4:</strong> Upon entering the OTP, the phone number will be changed.</p><p>If claiming the phone number is not possible, you must use a different one to create your account.</p>"
+  },
+  {
+    "id": 7,
+    "title": "What is Jumia Marketplace?",
+    "description": "Jumia Marketplace is an e-commerce platform that allows businesses and individuals to sell their products online to a large customer base."
+  },
+  {
+    "id": 7,
+    "title": "How do I become a Jumia Marketplace seller?",
+    "description": "To become a Jumia Marketplace seller, you need to <a style='font-weight: bold;color: orange;'>REGISTER</a> as a vendor on the Jumia website, submit your product catalog, and start selling."
+  },
+  {
+    "id": 7,
+    "title": "What kind of products can I sell on Jumia Marketplace?",
+    "description": "You can sell a wide range of products, including fashion, electronics, home and appliances, health and beauty, and many others."
+  },
+  {
+    "id": 7,
+    "title": "Is it free to sell on Jumia Marketplace?",
+    "description": "Opening a store on Jumia is absolutely free. You can open a store at any time and start selling as quickly as you can upload your products online, though there are fees and commissions for delivered products."
+  },
+  {
+    "id": 7,
+    "title": "How do I list my products on Jumia Marketplace?",
+    "description": "To list your products on Jumia Marketplace, you need to create a seller account, complete the new seller training, provide product details, and upload product images."
+  },
+  {
+    "id": 7,
+    "title": "How does Jumia Marketplace handle customer returns and refunds?",
+    "description": "Jumia Marketplace has a <a style='font-weight: bold;color: orange;'>RETURNS AND REFUND POLICY</a> in place to handle customer complaints and ensure a smooth customer experience."
+  },
+  {
+    "id": 7,
+    "title": "What support does Jumia Marketplace provide to its sellers?",
+    "description": "Jumia Marketplace provides a variety of support services to its sellers, including training, account management, marketing support, and vendor support service."
+  },
+  {
+    "id": 7,
+    "title": "How does Jumia Marketplace handle shipping and delivery?",
+    "description": "Jumia Marketplace handles all the shipping and delivery towards the customer for all products that are sold on the platform."
+  },
+  {
+    "id": 7,
+    "title": "How do I get paid for sales made on Jumia Marketplace?",
+    "description": "Sellers receive payments for their sales on Jumia Marketplace through bank transfers."
+  },
+  {
+    "id": 8,
+    "title": "How do I get paid for sales made on Jumia Marketplace?",
+    "description": "Sellers receive payments for their sales on Jumia Marketplace through bank transfers."
+  }
+]
